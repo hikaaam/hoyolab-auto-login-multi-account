@@ -10,7 +10,7 @@ How to use (id: cara pakai) :
 
    ![Alt text](./images/projekbaru.png)
 
-3. copy the index.gs code to app script (id: copy file index.gs ke app script)
+3. copy the [index.gs](https://raw.githubusercontent.com/hikaaam/hoyolab-auto-login-multi-account/main/index.gs) code to app script (id: copy file [index.gs](https://raw.githubusercontent.com/hikaaam/hoyolab-auto-login-multi-account/main/index.gs) ke app script)
 
    ![Alt text](./images/copy.png)
 
