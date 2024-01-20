@@ -25,6 +25,7 @@ How to use (id: cara pakai) :
    ![Alt text](./images/cookies.png)
 
 8. copy value of ltoken_v2 and ltuid_v2 into your app script (id: copy value dari ltoken_v2 dan ltuid_v2 ke google app script)
+
    ![Alt text](./images/inputtoken.png)
 
 9. [optional] if you have more than 1 account, you need to logout and sign in to hoyolab with your different account and repeat the proccess (id: [opsional] jika punya lebih dari 1 akun, maka perlu logout dari hoyolab kemudian login lagi pake akun yg lain)
